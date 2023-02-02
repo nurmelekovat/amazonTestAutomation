@@ -11,3 +11,4 @@ c. Sonuçlar sayfasında çıkan ilk sonucun detayını açın.
 
 d. Ürünün fiyat, model adı ve CPU modeli bilgilerini bir dosyaya yazdırın.
 
+Kullanılan Araç ve Teknolojiler: IntellıjIdea,Java,Selenium,Maven,Chrome Driver
